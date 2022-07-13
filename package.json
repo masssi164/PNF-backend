@@ -1,0 +1,19 @@
+{
+  "name": "pnf-backend",
+  "version": "1.0.0",
+  "description": "A provider for pnf exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masssi164/PNF-backend.git"
+  },
+  "author": "Massimo Maier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masssi164/PNF-backend/issues"
+  },
+  "homepage": "https://github.com/masssi164/PNF-backend#readme"
+}
